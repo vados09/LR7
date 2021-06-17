@@ -1,0 +1,11 @@
+#main{
+width:800px;
+background-image: url(../images/fon_bg.jpg);
+background-repeat: repeat-y;
+}
+#header{
+width:800px;
+height:155px;
+background-image: url(../images/header.jpg);
+background-repeat:no-repeat;
+}
